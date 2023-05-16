@@ -1,1 +1,1 @@
-# timer-chrome-ext
+# Timer Chrome Extension
